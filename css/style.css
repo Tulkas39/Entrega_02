@@ -127,9 +127,12 @@ section article p{
     justify-content: center;
     align-items: center;
 }
-
+.redesociales{
+    text-align: center;
+}
 section div h2{
     font-family: "Love Ya Like A Sister", cursive;
+    font-size: 2rem;
     text-shadow:
     -1px -1px 0 black,
     1px -1px 0 black,
@@ -148,9 +151,9 @@ footer section p{
     font-family: "Open Sans", sans-serif;
     color: black;
     background-color: white;
-    text-align: left;
+    text-align: center;
 }
-   
+
 .inscripcionesForm{
     font-family: "Open Sans", sans-serif;
     background-color: #ee6c4d;
