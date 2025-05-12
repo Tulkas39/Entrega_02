@@ -103,6 +103,8 @@ section article h3{
 
 }
 section article img{
+    display: flex;
+    justify-self: center;
     border-color:#ee6c4d;
     border-radius: 32px;
     border-style: solid;
@@ -110,13 +112,14 @@ section article img{
 
 }    
 section article h3 span{
-    
+    display: flex;
+    justify-content: start;
     background-color:#ee6c4d;
-    text-box: center;
     padding: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 5%;
+    padding-right: 2%;
     border-radius: 12px;
+
 }
 section div h3 span{
     font-family: "Open Sans", sans-serif;
