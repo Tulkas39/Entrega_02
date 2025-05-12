@@ -63,6 +63,7 @@ h2{
     font-family: "Open Sans", sans-serif;
     background-color: #ee6c4d;
     color: aliceblue;
+    margin: 20px;
 }
 .mainsection-grids{
     display: grid;
@@ -153,7 +154,20 @@ footer section p{
     background-color: white;
     text-align: center;
 }
-
+.carousel-inner{
+    background-color: #3d5a80;
+    width: 50%;
+    left: 25%;
+}
+.carousel-control-prev{
+    left: 25%;
+}
+.carousel-control-next{
+    left: 60%;
+}
+.carousel-item{
+    left: 30%;
+}
 .inscripcionesForm{
     font-family: "Open Sans", sans-serif;
     background-color: #ee6c4d;
@@ -161,8 +175,10 @@ footer section p{
     text-align: center;
 }
 
+
+
     /* Paleta de Colores
-    #3d5a80 // #98c1d9 // #e0fbfc // #ee6c4d //#293241
+    3d5a80# // #98c1d9 // #e0fbfc // #ee6c4d //#293241
     */
 
             /* Fuentes
